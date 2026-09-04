@@ -12,14 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/SBU-Computer%20Engineering-2563EB?style=for-the-badge" alt="SBU" /></a>
+  <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/SBU-CE-2563EB?style=for-the-badge" alt="SBU" /></a>
   <a href="https://hossein.dev"><img src="https://img.shields.io/badge/Portfolio-hossein.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://t.me/TheTr0ller"><img src="https://img.shields.io/badge/Telegram-Let's%20talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HosseinBadr404&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/HosseinBadr404?style=flat-square&color=0891B2&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-16A34A?style=flat-square" alt="Open to collaboration" />
 </p>
 
