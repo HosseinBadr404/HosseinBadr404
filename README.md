@@ -1,72 +1,118 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hossein-badr-profile-banner.jpg" width="100%" alt="Hossein Badr — software, systems, data, music, and hardware" />
+</p>
 
-# Hossein Badr
+<h1 align="center">Hi, I’m Hossein Badr 👋</h1>
 
-### Computer Engineering Student at Shahid Beheshti University · Software & Systems Developer
+<p align="center">
+  <strong>Computer Engineering Student at Shahid Beheshti University</strong><br/>
+  Building useful things where software, systems, data, and hardware meet.
+</p>
 
-I build practical software and systems projects across mobile development, backend engineering, data analysis, computer architecture, signal processing, and digital design.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Flutter+apps+with+real+product+thinking;Backend+systems+that+stay+clear+under+pressure;Data%2C+signals%2C+algorithms%2C+and+computer+architecture;Always+learning.+Always+shipping." alt="Typing introduction" />
+  </a>
+</p>
 
-[![Shahid Beheshti University](https://img.shields.io/badge/Shahid%20Beheshti%20University-Computer%20Engineering-2563EB?style=flat-square)](https://www.sbu.ac.ir/)
-[![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=flat-square)](https://github.com/HosseinBadr404?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=HosseinBadr404&style=flat-square&color=6D28D9)](https://github.com/HosseinBadr404)
+<p align="center">
+  <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/Shahid%20Beheshti%20University-Computer%20Engineering-2563EB?style=for-the-badge" alt="Shahid Beheshti University" /></a>
+  <a href="https://hossein.dev"><img src="https://img.shields.io/badge/Portfolio-hossein.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://t.me/TheTr0ller"><img src="https://img.shields.io/badge/Telegram-Let's%20talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HosseinBadr404&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HosseinBadr404?style=flat-square&color=0891B2&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-16A34A?style=flat-square" alt="Open to collaboration" />
+</p>
 
-## About me
+---
 
-- 🎓 Computer Engineering student at Shahid Beheshti University, turning university concepts into working products
-- 🧩 Interested in software architecture, backend systems, algorithms, and computer systems
-- 📱 Building cross-platform applications with Flutter and Dart
-- ⚙️ Exploring Java services, Python data workflows, Verilog, and RISC-V
-- 🤝 Open to meaningful collaboration, code reviews, and open-source contributions
+## ⚡ Right now
 
-## Selected projects
+```text
+$ whoami
+Hossein Badr — a computer engineering student who likes turning theory into working systems.
 
-| Project | Highlights | Technologies |
+$ current_quest
+Ship better products · understand systems deeply · contribute useful open-source work
+
+$ working_style
+Curious → build → measure → refactor → document → repeat
+```
+
+| Current focus | What I’m exploring |
+| --- | --- |
+| 🎵 **Nava Music** | A polished cross-platform music experience backed by a concurrent Java service |
+| ⚙️ **Backend engineering** | Clear APIs, secure authentication, concurrency, persistence, and maintainable architecture |
+| 🧠 **Systems thinking** | Cache policies, RISC-V, digital logic, algorithms, and performance trade-offs |
+| 📊 **Data & signals** | Reproducible analysis, statistics, numerical methods, and signal processing |
+
+## 🚀 Featured builds
+
+| Project | Why it is interesting | Stack |
 | --- | --- | --- |
-| [Nava Music App](https://github.com/HosseinBadr404/nava-music-app) | Cross-platform music player and marketplace with authentication, purchases, comments, and local playback | Flutter, Dart |
-| [Nava Music Server](https://github.com/HosseinBadr404/nava-music-server) | Concurrent socket server, secure authentication, and relational persistence | Java, MySQL, Gson |
-| [Telegram Popularity Analysis](https://github.com/HosseinBadr404/telegram-popularity-analysis) | Data collection, statistical inference, Bayesian analysis, and prediction | Python, pandas, SciPy |
-| [LRU2Near for ChampSim](https://github.com/HosseinBadr404/lru2near-champsim) | Cache replacement policy, simulation, benchmarking, and RV64 implementation | C++, RISC-V |
-| [Limit Order Matching Engine](https://github.com/HosseinBadr404/order-matching-engine) | Price–time priority, custom heaps, partial fills, and order cancellation | Java |
-| [Signals and Systems Lab](https://github.com/HosseinBadr404/signal-processing-lab) | Fourier analysis, filtering, spectrograms, and real-time audio processing | Python, NumPy, SciPy |
+| [**Nava Music App**](https://github.com/HosseinBadr404/nava-music-app) | A cross-platform music player and marketplace with authentication, purchases, comments, and local playback | Flutter · Dart |
+| [**Nava Music Server**](https://github.com/HosseinBadr404/nava-music-server) | A concurrent socket server with secure authentication and relational persistence | Java · MySQL · Gson |
+| [**DeskRadar**](https://github.com/ParsithTeam/DeskRadar) | Team-built service-desk analytics and intelligent ticket processing | Python |
+| [**Telegram Popularity Analysis**](https://github.com/HosseinBadr404/telegram-popularity-analysis) | Data collection, statistical inference, Bayesian analysis, and prediction | Python · pandas · SciPy |
+| [**LRU2Near for ChampSim**](https://github.com/HosseinBadr404/lru2near-champsim) | Cache-replacement research, simulation, benchmarking, and an RV64 implementation | C++ · RISC-V |
+| [**Limit Order Matching Engine**](https://github.com/HosseinBadr404/order-matching-engine) | Price–time priority, custom heaps, partial fills, and order cancellation | Java |
 
 <details>
-<summary><strong>More academic projects</strong></summary>
+<summary><strong>🧪 Open the academic lab</strong></summary>
 
-- [FPGA ALU and Clock](https://github.com/HosseinBadr404/fpga-alu-clock) — modular RTL with focused testbenches
-- [Reliable Data Link](https://github.com/HosseinBadr404/reliable-data-link-verilog) — transmitter/receiver pipeline with parity checking and error injection
+<br/>
+
+- [Signals and Systems Lab](https://github.com/HosseinBadr404/signal-processing-lab) — Fourier analysis, filtering, spectrograms, and real-time audio
 - [Numerical Linear Algebra Lab](https://github.com/HosseinBadr404/numerical-linear-algebra-lab) — PageRank, SVD image compression, and eigenfaces
-- [Terminal Sudoku](https://github.com/HosseinBadr404/terminal-sudoku) — interactive C++ terminal game with profiles, saves, and scoring
+- [Reliable Data Link](https://github.com/HosseinBadr404/reliable-data-link-verilog) — transmitter/receiver pipeline, parity checking, and error injection
+- [FPGA ALU and Clock](https://github.com/HosseinBadr404/fpga-alu-clock) — modular RTL and focused testbenches
+- [Terminal Sudoku](https://github.com/HosseinBadr404/terminal-sudoku) — an interactive C++ terminal game with profiles, saves, and scoring
 
 </details>
 
-## Technical toolbox
+## 🧭 My engineering map
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img alt="Verilog" src="https://img.shields.io/badge/Verilog-8B5CF6?style=flat-square">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+```mermaid
+flowchart LR
+    IDEA["💡 Idea"] --> PRODUCT["📱 Product"]
+    PRODUCT --> SERVICE["⚙️ Backend"]
+    SERVICE --> DATA["📊 Data"]
+    DATA --> SYSTEMS["🧠 Systems"]
+    SYSTEMS --> HARDWARE["🔌 Hardware"]
+
+    PRODUCT -. Flutter / Dart .-> SERVICE
+    SERVICE -. Java / MySQL .-> DATA
+    DATA -. Python / SciPy .-> SYSTEMS
+    SYSTEMS -. C++ / RISC-V .-> HARDWARE
+    HARDWARE -. Verilog .-> IDEA
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,mysql,git,github,linux,vscode&perline=10" alt="Technical toolbox" />
 </p>
 
-## GitHub activity
+## 📈 GitHub pulse
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HosseinBadr404&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Hossein's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinBadr404&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
 
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinBadr404&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinBadr404&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+## 🤝 Let’s build something meaningful
 
-</div>
+I’m open to thoughtful collaborations, code reviews, and open-source work—especially around mobile products, backend systems, data tooling, computer architecture, and digital design.
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/HosseinBadr404?tab=repositories"><strong>Explore my repositories</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://hossein.dev"><strong>Visit my portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/TheTr0ller"><strong>Start a conversation</strong></a>
+</p>
 
-### Interested in collaborating?
-
-Explore my [repositories](https://github.com/HosseinBadr404?tab=repositories) or start a conversation through a relevant project issue.
-
-</div>
+<p align="center">
+  <sub>Made with curiosity, careful engineering, and probably music playing in the background 🎧</sub>
+</p>
