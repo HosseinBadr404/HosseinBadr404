@@ -2,11 +2,11 @@
 
 # Hossein Badr
 
-### Computer Engineering Student · Software & Systems Developer
+### Computer Engineering Student at Shahid Beheshti University · Software & Systems Developer
 
 I build practical software and systems projects across mobile development, backend engineering, data analysis, computer architecture, signal processing, and digital design.
 
-[![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-Student-2563EB?style=flat-square)](https://github.com/HosseinBadr404)
+[![Shahid Beheshti University](https://img.shields.io/badge/Shahid%20Beheshti%20University-Computer%20Engineering-2563EB?style=flat-square)](https://www.sbu.ac.ir/)
 [![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=flat-square)](https://github.com/HosseinBadr404?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=HosseinBadr404&style=flat-square&color=6D28D9)](https://github.com/HosseinBadr404)
 
@@ -14,7 +14,7 @@ I build practical software and systems projects across mobile development, backe
 
 ## About me
 
-- 🎓 Computer Engineering student turning university concepts into working products
+- 🎓 Computer Engineering student at Shahid Beheshti University, turning university concepts into working products
 - 🧩 Interested in software architecture, backend systems, algorithms, and computer systems
 - 📱 Building cross-platform applications with Flutter and Dart
 - ⚙️ Exploring Java services, Python data workflows, Verilog, and RISC-V
