@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/Shahid%20Beheshti%20University-Computer%20Engineering-2563EB?style=for-the-badge" alt="SBU" /></a>
+  <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/SBU-Computer%20Engineering-2563EB?style=for-the-badge" alt="SBU" /></a>
   <a href="https://hossein.dev"><img src="https://img.shields.io/badge/Portfolio-hossein.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://t.me/TheTr0ller"><img src="https://img.shields.io/badge/Telegram-Let's%20talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
