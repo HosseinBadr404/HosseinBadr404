@@ -5,11 +5,6 @@
   Building useful things where software, systems, data, and hardware meet.
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Flutter+apps+with+real+product+thinking;Backend+systems+that+stay+clear+under+pressure;Data%2C+signals%2C+algorithms%2C+and+computer+architecture;Always+learning.+Always+shipping." alt="Typing introduction" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.sbu.ac.ir/"><img src="https://img.shields.io/badge/SBU-CE-2563EB?style=for-the-badge" alt="SBU" /></a>
